@@ -39,9 +39,9 @@ only treats `/turf/open/floor` as floor. However, snow, ash, asteroid, and simil
 
 I am setting up the tgstation development environment locally using my fork of the repository.
 
-Fork: `<PASTE YOUR FORK LINK HERE>`
+Fork: Link
 
-Working branch: `<PASTE YOUR BRANCH LINK HERE>`
+Working branch: Link
 
 Setup steps:
 
