@@ -47,7 +47,8 @@ The README says that building directly in DreamMaker is deprecated and may produ
 I forked the repository and cloned my fork locally.
 
 **Fork:**  https://github.com/junphuc/tgstation
-**Working Branch:** https://github.com/YOUR-GITHUB-USERNAME/tgstation/tree/fix-chemistry-equipment-misc-turfs
+
+**Working Branch:** https://github.com/junphuc/tgstation/tree/fix-chemistry-equipment-misc-turfs
 
 Local setup steps:
 
@@ -97,7 +98,7 @@ if(!(isfloorturf(loc) || isindestructiblefloor(loc)) && !anchored)
 
 The likely problem is that `isfloorturf(loc)` returns false for `/turf/open/misc` terrain such as snow, ash, and asteroid turf.
 
-**Branch Link:** https://github.com/YOUR-GITHUB-USERNAME/tgstation/tree/fix-chemistry-equipment-misc-turfs
+**Branch Link:** https://github.com/junphuc/tgstation/tree/fix-chemistry-equipment-misc-turfs
 
 ## Solution Approach
 
