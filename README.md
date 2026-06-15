@@ -46,7 +46,7 @@ The README says that building directly in DreamMaker is deprecated and may produ
 
 I forked the repository and cloned my fork locally.
 
-**Fork:** https://github.com/YOUR-GITHUB-USERNAME/tgstation
+**Fork:**  https://github.com/junphuc/tgstation
 **Working Branch:** https://github.com/YOUR-GITHUB-USERNAME/tgstation/tree/fix-chemistry-equipment-misc-turfs
 
 Local setup steps:
